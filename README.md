@@ -2,8 +2,6 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Active Directory Home Lab](https://github.com/Kylegibbons2/ActiveDirectoryLab)
-
 - [Installing Windows Server 2019](https://github.com/Kylegibbons2/Windows-Server-2019)
 
 <h2>⚡ Certifications</h2>
